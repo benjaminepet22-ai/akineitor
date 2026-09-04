@@ -1,0 +1,7 @@
+{
+  "name": "Genio Adivinador",
+  "description": "Juego interactivo de preguntas estilo Akinator basado en árboles binarios de decisión con aprendizaje dinámico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
